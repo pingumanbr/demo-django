@@ -15,7 +15,7 @@ contextlib2
 cryptography
 defusedxml
 distlib
-Django == 2.1
+Django == 4.2
 docutils
 enum34
 filelock
