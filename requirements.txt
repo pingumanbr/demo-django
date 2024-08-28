@@ -72,3 +72,4 @@ wcwidth
 wheel
 xattr
 zipp
+python == 3.12.4
