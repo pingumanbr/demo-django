@@ -6,7 +6,6 @@ attrs
 Babel
 backports.functools-lru-cache
 bdist-mpkg
-bonjour-py
 bootstrap-py
 certifi
 cffi
