@@ -67,7 +67,6 @@ Sphinx
 sphinxcontrib-websupport
 typing
 urllib3
-vboxapi
 virtualenv
 wcwidth
 wheel
